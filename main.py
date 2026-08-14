@@ -36,3 +36,5 @@ folium.Marker(
 
 
 myMap.save("mylocation.html")
+
+print("tesing mode")
